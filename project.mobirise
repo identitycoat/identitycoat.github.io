@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-12-14_0955",
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -3189,7 +3189,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/m10-myrthe-nr-2000x1406.png",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -3223,7 +3223,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/goed2-2-2000x1348.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
